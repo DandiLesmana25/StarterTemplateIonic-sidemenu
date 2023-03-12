@@ -1,0 +1,7 @@
+{
+  "name": "StarterTemplateIonic-sidemenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
